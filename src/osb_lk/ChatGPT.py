@@ -64,7 +64,7 @@ class ChatGPT:
         n_messages = len(self.messages)
         log.debug(f'ChatGPT().send({n_messages=})')
 
-        t_original = 1    
+        t_original = 1
         while True:
             try:
                 response = openai.ChatCompletion.create(

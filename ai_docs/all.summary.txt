@@ -1,0 +1,27 @@
+all
+ 
+"Overview of the Online Safety Bill of the Democratic Socialist Republic of Sri Lanka"
+ 
+The part provides a comprehensive summary of the proposed Online Safety Bill in Sri Lanka, detailing its various provisions including the establishment of an Online Safety Commission, regulations for online conduct, penalties for online misconduct, and the roles of individuals, the Commission, and service providers in maintaining online safety.
+ 
+Summary
+1. The Online Safety Bill proposes the establishment of an Online Safety Commission 🏛️ in Sri Lanka 🇱🇰.
+2. The Commission is designed to prohibit certain online communications 📵 and prevent misuse of online accounts for illegal purposes 🚫.
+3. It includes provisions to identify and declare illegal online locations 📍 used for #ProhibitedActivities.
+4. The bill aims to suppress the support of false online statements 💬.
+5. The Commission consists of five members appointed by the @President, with qualifications in various fields 🎓.
+6. The bill outlines specific disqualifications ❌ for appointment or continuation as a member of the Commission.
+7. The Commission has the power to issue directives 📝 regarding the communication of prohibited statements and false information.
+8. The Commission is responsible for maintaining an online portal 🌐 with information on the veracity of statements.
+9. The bill outlines legal consequences ⚖️ for online misconduct in Sri Lanka, including spreading false information and causing harm or harassment.
+10. It includes provisions for addressing and preventing the communication of prohibited statements online 💻.
+11. Individuals aggrieved by prohibited statements can submit a complaint to the Commission 📩.
+12. The Commission may declare an online location as a "declared online location" 📍 if multiple prohibited statements have been communicated there.
+13. The bill outlines regulations and penalties for inauthentic online accounts 🚫 and coordinated inauthentic behavior 🕵️‍♂️.
+14. The Minister 👨‍💼 can appoint an expert 👨‍💻 in information technology to assist police 👮‍♂️ in investigations related to offences under the Act.
+15. The Commission has its own Fund 💰, to which money voted by Parliament is credited and from which all expenses incurred by the Commission are paid.
+16. The jurisdiction for all offences under this Act lies with the Magistrate’s Court ⚖️.
+17. The Commission is required to prepare an annual report 📄 of its activities.
+18. The Commission is authorized to make rules 📜 for issuing codes of practice for service providers and internet intermediaries.
+19. The Act provides definitions 📚 for terms such as "bot" 🤖, "child" 👶, "computer" 💻, "fact" ✔️, "internet intermediary" 🌐, "online account" 📱, "person" 👤, and "statement" 💬.
+ 

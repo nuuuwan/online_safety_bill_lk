@@ -1,0 +1,330 @@
+all
+ 
+"Overview of the Online Safety Bill of the Democratic Socialist Republic of Sri Lanka"
+ 
+The part provides a comprehensive summary of the proposed Online Safety Bill in Sri Lanka, detailing its various provisions including the establishment of an Online Safety Commission, regulations for online conduct, penalties for online misconduct, and the roles of individuals, the Commission, and service providers in maintaining online safety.
+ 
+Summary
+1. The Online Safety Bill proposes the establishment of an Online Safety Commission 🏛️ in Sri Lanka 🇱🇰.
+2. The Commission is designed to prohibit certain online communications 📵 and prevent misuse of online accounts for illegal purposes 🚫.
+3. It includes provisions to identify and declare illegal online locations 📍 used for #ProhibitedActivities.
+4. The bill aims to suppress the support of false online statements 💬.
+5. The Commission consists of five members appointed by the @President, with qualifications in various fields 🎓.
+6. The bill outlines specific disqualifications ❌ for appointment or continuation as a member of the Commission.
+7. The Commission has the power to issue directives 📝 regarding the communication of prohibited statements and false information.
+8. The Commission is responsible for maintaining an online portal 🌐 with information on the veracity of statements.
+9. The bill outlines legal consequences ⚖️ for online misconduct in Sri Lanka, including spreading false information and causing harm or harassment.
+10. It includes provisions for addressing and preventing the communication of prohibited statements online 💻.
+11. Individuals aggrieved by prohibited statements can submit a complaint to the Commission 📩.
+12. The Commission may declare an online location as a "declared online location" 📍 if multiple prohibited statements have been communicated there.
+13. The bill outlines regulations and penalties for inauthentic online accounts 🚫 and coordinated inauthentic behavior 🕵️‍♂️.
+14. The Minister 👨‍💼 can appoint an expert 👨‍💻 in information technology to assist police 👮‍♂️ in investigations related to offences under the Act.
+15. The Commission has its own Fund 💰, to which money voted by Parliament is credited and from which all expenses incurred by the Commission are paid.
+16. The jurisdiction for all offences under this Act lies with the Magistrate’s Court ⚖️.
+17. The Commission is required to prepare an annual report 📄 of its activities.
+18. The Commission is authorized to make rules 📜 for issuing codes of practice for service providers and internet intermediaries.
+19. The Act provides definitions 📚 for terms such as "bot" 🤖, "child" 👶, "computer" 💻, "fact" ✔️, "internet intermediary" 🌐, "online account" 📱, "person" 👤, and "statement" 💬.
+ 
+all
+ 
+Improvements
+1. Clearer Definitions: The bill could provide more specific definitions for terms such as "prohibited statements" and "inauthentic behavior" to avoid ambiguity and misuse.
+2. Balance between Safety and Freedom of Speech: The legislation could include more explicit protections for freedom of speech and expression to ensure that it is not used to suppress legitimate dissent or criticism.
+3. Independent Oversight: The bill could include provisions for independent oversight of the Commission to prevent potential misuse of power.
+4. Public Input: The drafting process could be more transparent and inclusive, allowing for public input and consultation to ensure the legislation adequately reflects the needs and concerns of the public.
+5. Regular Review: The legislation could include provisions for regular review and updates to keep pace with technological advancements and emerging online safety issues.
+ 
+Part 0
+ 
+"Online Safety Bill of the Democratic Socialist Republic of Sri Lanka"
+ 
+The part is about a bill proposed in Sri Lanka to establish the Online Safety Commission, aimed at prohibiting certain online communications, preventing misuse of online accounts, identifying and declaring illegal online activities, and suppressing the support of false online statements.
+ 
+Summary
+1. The bill proposes the establishment of an Online Safety Commission 🏛️ in Sri Lanka 🇱🇰.
+2. It aims to prohibit certain types of online communication 📵 and prevent the misuse of online accounts for illegal purposes 🚫.
+3. The bill includes provisions to identify and declare online locations 📍 used for #ProhibitedActivities.
+4. It seeks to suppress the financing 💰 and other forms of support for the communication of #FalseStatements online.
+ 
+Part 0
+ 
+Improvements
+1. The bill could include more specific definitions of what constitutes "prohibited purposes" and "false statements of fact" to avoid potential misuse or misinterpretation.
+2. It could provide clearer guidelines on how the Online Safety Commission will operate, including its powers, responsibilities, and the process for appointing members.
+3. The legislation could include provisions for regular reviews and updates to ensure it remains effective and relevant in the face of rapidly evolving digital technologies.
+4. It might benefit from including a section on public education and awareness to help citizens understand and comply with the new regulations. 
+5. There could be more emphasis on protecting the rights to freedom of speech and privacy, to ensure these are not unduly compromised in the pursuit of online safety.
+ 
+Part 1
+ 
+"Establishment and Functioning of the Online Safety Commission"
+ 
+This part outlines the establishment, composition, qualifications, disqualifications, and operational procedures of the Online Safety Commission, a body corporate assigned to oversee online safety under a specific Act.
+ 
+Summary
+1. The document establishes the Online Safety Commission 🏢, a body corporate with perpetual succession, that can sue or be sued⚖️.
+2. The Commission consists of five members appointed by the @President, with qualifications in #InformationTechnology, #law, #governance, #socialservices, #journalism, #scienceandtechnology, or #management.
+3. There are specific disqualifications for appointment or continuation as a member of the Commission, including holding political office🏛️, not being a citizen of Sri Lanka🇱🇰, having conflicting financial interests💰, and having a history of mental instability or criminality🚫.
+4. A member of the Commission may resign✍️ by addressing a letter to the @President, and the President has the power to remove a member for assigned reasons.
+5. The term of office for a member is three years⏳, and they can be reappointed for one further term. Vacancies are filled by the @President.
+6. Members are paid 💵 a remuneration determined by a resolution of Parliament.
+7. The @President appoints one of the members as the Chairman of the Commission, who serves a three-year term and is not eligible for reappointment as Chairman.
+8. Meetings of the Commission are summoned by the Chairman📅 and decisions are made by majority vote✅. The quorum for a meeting is three members.
+9. The Commission has a seal🔏, the custody and use of which are regulated by the Commission itself.
+ 
+Part 1
+ 
+Improvements
+1. The legislation could benefit from a more detailed description of the qualifications required for the members of the Commission. The current description is quite broad and could be made more specific to ensure the most qualified individuals are selected.
+
+2. The legislation could also provide a clearer process for handling conflicts of interest among the members of the Commission. While the document mentions financial conflicts of interest as a disqualifier, it does not provide a mechanism for identifying and managing potential conflicts.
+
+3. It may be helpful to establish a process for public input or oversight to increase transparency and trust in the Commission.
+
+4. The legislation could consider including a provision for regular review and updating of the Commission's mandate and operations to ensure it stays relevant in a rapidly changing online environment. 
+
+5. The legislation might also benefit from including specific guidelines or criteria for what constitutes a "valid reason" for a member's absence from three consecutive meetings, to avoid potential misuse of this clause.
+ 
+Part 2
+ 
+"Powers and Responsibilities of the Online Safety Commission"
+ 
+The part outlines the powers and responsibilities of the Commission, including issuing directives, conducting investigations, advising the government, and maintaining online safety in Sri Lanka.
+ 
+Summary
+1. The Commission is authorized to issue directives 📝 to individuals, service providers, and internet intermediaries regarding the communication of #ProhibitedStatements and false information.
+2. The Commission can refer to the court ⚖️ any communications that may be in contempt of court or prejudicial to the judiciary's authority and impartiality.
+3. The Commission is responsible for maintaining an online portal 🌐 with information on the veracity of statements, conducting investigations 🔍 as directed by a court, and issuing codes of practice for service providers.
+4. The Commission has the power to register websites providing social media platforms (#SocialMedia), consult with affected parties, and advise the government 🏛️ on all matters concerning #OnlineSafety.
+5. The Commission can acquire and manage property 🏢, enter into necessary contracts 📄, obtain police assistance 👮‍♂️ for investigations, and perform other acts related to its powers and functions under the Act.
+ 
+Part 2
+ 
+Improvements
+1. The legislation could provide clearer definitions of what constitutes a "prohibited statement" or "false information" to avoid potential misuse or misinterpretation of these terms.
+2. The legislation could include provisions for regular audits or reviews of the Commission's performance to ensure accountability and effectiveness.
+3. The legislation could provide more explicit protections for freedom of speech and privacy rights to balance the Commission's powers and prevent potential overreach.
+4. The legislation could outline specific penalties or consequences for non-compliance with the Commission's directives to enhance enforcement.
+5. The legislation could include a provision for public input or feedback on the Commission's policies and directives to ensure transparency and public involvement.
+ 
+Part 3
+ 
+"Online Safety and Legal Consequences for Online Misconduct"
+ 
+This part of the document outlines the legal consequences, including imprisonment and fines, for various forms of online misconduct such as spreading false information, causing harm or harassment, and cheating, whether committed within or outside Sri Lanka.
+ 
+Summary
+1. 🚫 The document outlines the legal consequences for online misconduct in Sri Lanka.
+2. 🚷 Prohibits the communication of false statements that threaten national security 🌐 or public health 🏥, or promote ill-will between different classes of people.
+3. ⚖️ Criminalizes the communication of false statements amounting to contempt of court.
+4. 🗣️ Penalizes anyone who maliciously provokes others to riot by communicating false statements.
+5. 🛑 Prohibits disturbing religious assemblies by communicating false statements.
+6. 🙏 It's an offense to wound the religious feelings of another person by communicating false statements.
+7. 😡 Criminalizes the act of outraging the religious feelings of any class of persons by communicating false statements.
+8. 🕵️‍♂️ Makes it an offense to deceive any person by communicating a false statement online.
+9. 🎭 Criminalizes #Cheating by personation online.
+10. 😠 Penalizes intentional insults by communicating false statements with intent to provoke a breach of peace.
+11. 📰 Criminalizes circulating false reports with intent to cause mutiny or an offense against the State.
+12. 📢 Makes it an offense to communicate statements of fact to cause harassment.
+13. 🚫👶 Criminalizes child abuse and the publication of abusive or pornographic material relating to a child online.
+14. 🤖 Penalizes the making or altering of a bot with the intention of communicating a statement which constitutes an offense under this Act.
+15. ❌ Imposes penalties for failure to comply with any directive issued by the @Commission within twenty-four hours of its receipt.
+ 
+Part 3
+ 
+Improvements
+1. Provide Clear Definitions: The legislation could be improved by providing clearer definitions of terms such as "false statement," "harassment," and "religious feelings." This would help to ensure that the law is applied consistently and fairly.
+
+2. Address Privacy Concerns: The legislation could also address privacy concerns more explicitly. For example, it could provide guidelines for how personal information should be handled and protected online.
+
+3. Include Provisions for Digital Literacy: The legislation could include provisions for promoting digital literacy and safe online behavior. This could help to prevent online misconduct in the first place.
+
+4. Strengthen Enforcement Mechanisms: The legislation could also be improved by strengthening enforcement mechanisms. This could include providing more resources for investigating and prosecuting online misconduct.
+
+5. Consider International Cooperation: Given the global nature of the internet, the legislation could include provisions for international cooperation in investigating and prosecuting online misconduct.
+ 
+Part 4
+ 
+"Online Safety Measures and Regulations in Sri Lanka"
+ 
+This part of the document outlines the measures and procedures for addressing and preventing the communication of prohibited statements online in Sri Lanka, including the roles of individuals, the Commission, and service providers in this process.
+ 
+Summary
+1. Individuals in Sri Lanka 🇱🇰 aggrieved by the communication of prohibited statements online 💻 can submit a complaint to the Commission.
+2. The Commission 🏢 will designate information officers 👮‍♂️ to receive these complaints.
+3. Complaints should include details 📝 of the person or persons responsible for the prohibited statement, including URL or other identifying features.
+4. If possible, a copy of the complaint should be served to the person making the prohibited statement and any internet service provider or intermediary.
+5. If the necessary information 📄 to serve a complaint is not available, this should be specified in the complaint.
+6. The Commission will issue an acknowledgement of receipt 📩 and carry out investigations 🔎 if there's sufficient material that a prohibited statement has been communicated.
+7. If the Commission is satisfied that a prohibited statement has been communicated, it may issue a notice 📝 to the person who communicated such statement to prevent its circulation.
+8. The person to whom a notice has been issued must comply ✅ immediately, but not later than twenty four hours from such notice.
+9. If any person fails to comply with a notice, the Commission can issue a notice to the #InternetServiceProvider or #InternetIntermediary to disable access or remove the prohibited statement.
+10. Any person affected by the communication of any prohibited statement may apply to the Magistrate’s Court ⚖️ to obtain an order to prevent the circulation of such information.
+11. The court order can require the person to stop 🚫 communication of the prohibited statement and any other order as the Magistrate deems fit.
+12. If the person fails to comply with the court order, they can be penalized with imprisonment 🚔 or a fine 💰, and the Commission can take steps to disable access or remove the prohibited statement.
+13. If necessary, the Commission can file a petition with the Magistrate’s Court to order an #InternetIntermediary to disclose the identity of the person who communicated the prohibited statement.
+14. A person aggrieved by a prohibited statement can apply for an order directing the #InternetIntermediary to disclose any information regarding the identity or location of the person who communicated the statement.
+15. #ServiceProvider who fail to adhere to the relevant code of practice issued by the Commission can be liable to pay damages 💸 for any wrongful loss caused.
+16. Providers of #InternetServices, #TelecommunicationServices, public access to the internet, or #ComputerResourceServices are exempt from liability for the communication of prohibited statements under certain conditions.
+17. The exemption from liability does not apply if the service provider initiated the communication, selected the end user, selected or modified the content, or failed to comply with the provisions of the Act.
+18. If an order is made against an #InternetIntermediary to disclose identity information, they must either comply or appear before the Magistrate to show cause as to why the order should not be absolute.
+19. If the #InternetIntermediary fails to comply with the order, they can be liable to a penalty. 💰
+ 
+Part 4
+ 
+Improvements
+1. Clarification of Terms: Certain terms such as "prohibited statement" could be defined more explicitly to ensure that the legislation is not misinterpreted or abused.
+
+2. Technological Updates: The legislation should be regularly updated to keep pace with the rapid advancement of technology and the evolving nature of online communication.
+
+3. Strengthening Privacy Protections: While the legislation addresses the issue of harmful online communication, it could provide stronger protections for user privacy, particularly in terms of the process for disclosing identity information.
+
+4. Public Awareness: The government could do more to raise public awareness about the legislation and the processes involved in reporting and addressing prohibited online statements.
+
+5. Providing Support for Victims: The legislation could include provisions for providing support and assistance to victims of prohibited online statements, such as counseling services or legal aid.
+ 
+Part 5
+ 
+"Regulations and Prohibitions for Declared Online Locations"
+ 
+This part outlines the regulations and penalties related to the declaration, operation, and support of prohibited online locations, as well as the obligations of service providers and intermediaries.
+ 
+Summary
+1. The Commission may 📣 declare an online location as a "declared online location" if 3️⃣ or more different prohibited statements have been communicated to the end users in Sri Lanka.
+2. A declaration made under this section shall contain the URL, domain name, unique identifier of the online location, relevant court orders, dates of effect and expiry, and a notice for the owner or operator of the online location.
+3. The declaration may expire 📆 on a specified date or when cancelled or set aside by the Commission.
+4. The Commission shall publish a notice in the Gazette 📜 and serve a copy of the declaration to the owner or operator of the declared online location.
+5. If the owner or operator fails to comply with the notice, the Commission may apply to the Magistrate for an order directing the owner or operator to disable access to the declared online location.
+6. The Magistrate may make a conditional order on the owner or operator of a declared online location containing the directions applied by the Commission.
+7. The owner or operator of a declared online location must comply with the order or appear before the Magistrate to show cause as to why the order should not be made absolute.
+8. If the owner or operator fails to comply with the order or appear before the Magistrate, they are liable to the penalty specified and the order will be made absolute.
+9. The Commission may suspend, vary or cancel a declaration made under this section for a determined period.
+10. A service provider or digital advertising intermediary must take reasonable steps to ensure that any paid content on a declared online location is not communicated in Sri Lanka.
+11. A person who fails to comply with these provisions commits an offence and can face imprisonment or a fine.
+12. Any person who solicits, receives or agrees to receive any financial 💰 or other material benefit for operating a declared online location commits an offence.
+13. A person who expends or applies any property knowing that the expenditure supports, helps or promotes the communication of prohibited statements on a declared online location commits an offence.
+14. Service providers or digital advertising intermediaries which give any consideration for the purpose of communicating any paid content in Sri Lanka on the declared online location are exempted from this provision.
+15. In addition to imprisonment or fine, the court may order the forfeiture of any assets or property acquired through the commission of an offence under this section.
+16. The term "property" in this context includes money 💵 and all other movable or immovable property, including things in action and other intangible or incorporeal property.
+ 
+Part 5
+ 
+Improvements
+1. Clearer Definitions: The legislation could provide more explicit definitions of terms such as "prohibited statements," "reasonable steps," and "online location" to avoid ambiguity and potential misuse.
+
+2. Technical Feasibility: The legislation could consider the technical feasibility of service providers and digital advertising intermediaries ensuring that no paid content on a declared online location is communicated in Sri Lanka, given the global and interconnected nature of the internet.
+
+3. Appeal Process: The legislation could provide a more detailed and transparent appeal process for entities that have been declared as "declared online locations."
+
+4. International Cooperation: Given the international nature of the internet, the legislation could include provisions for cooperation with foreign entities or governments to enforce these regulations effectively.
+
+5. Privacy Considerations: The legislation could include stronger protections or considerations for user privacy, particularly in cases where personal data might be involved in identifying and enforcing against declared online locations.
+ 
+Part 6
+ 
+"Regulations and Penalties for Inauthentic Online Accounts and Coordinated Inauthentic Behaviour"
+ 
+This part outlines the regulations and penalties for inauthentic online accounts and coordinated inauthentic behavior, detailing the conditions under which the Commission can issue notices to internet intermediaries, the processes for serving and complying with these notices, and the consequences of non-compliance.
+ 
+Summary
+1. 📝 The Commission can issue a written notice to an internet intermediary to refrain from allowing its services to be used for prohibited statements 🚫 or interactions through specified online accounts, given certain conditions are met.
+2. 📚 The conditions for such a notice include that the online accounts were created with the internet intermediary, a prohibited statement has been communicated or inauthentic behavior has been carried out in Sri Lanka 🇱🇰 using the account, and the Commission has determined the account to be inauthentic or bot-controlled 🤖.
+3. 🚫 If a notice is not complied with, the Commission can submit an application to the Magistrate’s Court ⚖️, which may issue a conditional order on the internet intermediary.
+4. 📅 An Order made under these conditions can have an indefinite effect or for a specified period not exceeding three months.
+5. 📋 The internet intermediary must either comply with the Magistrate's order or appear before the Magistrate to show cause as to why the order should not be made absolute.
+6. ⚠️ If the internet intermediary fails to comply with the order or appear before the Magistrate, they are liable to a penalty and the order becomes absolute.
+7. ⛔ The penalty for non-compliance can include imprisonment for up to seven years or a fine up to ten million rupees 💰, with an additional fine for each day the offence continues. #OnlineSafety #InternetRegulations
+ 
+Part 6
+ 
+Improvements
+1. Clarification: The legislation could more clearly define what constitutes a "prohibited statement" and "coordinated inauthentic behavior". This would help ensure that the law is applied consistently and fairly.
+
+2. Appeals Process: The legislation could include a more explicit appeals process for internet intermediaries who believe they have been wrongly accused or penalized.
+
+3. Prevention Measures: The legislation could include provisions to encourage or require internet intermediaries to implement measures to prevent the creation of inauthentic accounts or the dissemination of prohibited statements.
+
+4. Transparency: The legislation could require the Commission to publish regular reports on its enforcement of this legislation, to ensure transparency and accountability.
+
+5. International Collaboration: Given the global nature of the internet, the legislation could include provisions for international collaboration and information sharing to more effectively counteract inauthentic online accounts and behaviors.
+ 
+Part 7
+ 
+"Appointment and Powers of Information Technology Experts in Criminal Investigations"
+ 
+This part outlines the process of appointing information technology experts to assist in investigations, their powers, duties, and remuneration, as well as the obligation of individuals to assist these experts during investigations under the Act.
+ 
+Summary
+1. The Minister👨‍💼 can appoint an expert👨‍💻 in information technology to assist police👮‍♂️ in investigations related to offences under the Act📜.
+2. The Order📝 made by the Minister will specify the qualifications🎓, appointment process, and conditions of the appointed experts.
+3. The expert's duties include providing necessary assistance🤝 for investigations, accessing information systems💻, requiring individuals to produce documents📄 or disclose data🔍, and making any obtained information available for legal proceedings⚖️.
+4. Any information provided by the expert is admissible in court⚖️ and is considered #PrimaFacie proof of the facts stated.
+5. Individuals are required to comply✅ with the expert's requests during investigations, and the expert can obtain or intercept any information including subscriber information and traffic data📊 from service providers. #DutyToAssist #OnlineSafetyAct
+ 
+Part 7
+ 
+Improvements
+1. The legislation could provide more specific qualifications or certification requirements for the appointed experts to ensure their competency and reliability.
+2. The legislation could include more explicit privacy protections to prevent potential misuse of the broad powers granted to experts during investigations.
+3. The legislation could establish a mechanism for oversight or accountability for the experts to prevent potential abuses of power.
+4. The process for determining the remuneration of the experts could be made more transparent and fair, potentially by involving an independent body.
+ 
+Part 8
+ 
+"Financial Management and Audit Provisions for the Commission"
+ 
+This part outlines the financial provisions for the Commission, including the establishment and management of its Fund, the crediting and expenditure of money, maintenance of accounts, and auditing procedures in accordance with the Constitution.
+ 
+Summary
+1. The Commission 🏛️ has its own Fund 💰, to which money voted by Parliament is credited and from which all expenses 💸 incurred by the Commission are paid. The Commission is responsible for maintaining proper accounts 📚 of all its transactions.
+2. The audit 📊 of the Commission's accounts is governed by Article 154 of the Constitution 📜, which pertains to the audit of public corporations. #AuditRules #FinancialManagement
+ 
+Part 8
+ 
+Improvements
+1. The legislation could specify the procedures for how the Commission's Fund is managed, including the process for voting on funds by Parliament.
+2. The legislation could include provisions for financial transparency and public accountability, such as requirements for the Commission to publish its financial statements.
+3. The legislation could provide more detailed guidelines on what expenditures can be charged to the Fund.
+4. The legislation could include a clause that requires an independent external auditor, to ensure unbiased auditing.
+5. The legislation could specify penalties or consequences for mismanagement of the Fund or non-compliance with financial regulations.
+ 
+Part 9
+ 
+"General Provisions, Offences, and Definitions in the Online Safety Act"
+ 
+This part of the document outlines the general provisions, offences, jurisdiction, penalties, and definitions related to online safety under the relevant Act.
+ 
+Summary
+1. The provisions of the Code of Criminal Procedure Act, No. 15 of 1979, apply to investigations🔍, trials of offences, and appeals📚 from judgements under this Act.
+2. The jurisdiction⚖️ for all offences under this Act lies with the Magistrate’s Court.
+3. The Attorney General👨‍⚖️ can forward indictment directly to the High Court in cases with aggravating circumstances or public disquiet.
+4. Anyone who attempts to commit or causes an offence under this Act is liable to imprisonment🔒 or a fine💰.
+5. Anyone who attempts or abets the commission of an offence under this Act is liable to the same punishment as the first-mentioned offence.
+6. A person who conspires with another to commit an offence under this Act is liable to the same punishment as the first-mentioned offence.
+7. Every offence under this Act is a non-cognizable and bailable offence.
+8. If an offence under this Act is committed by a body of persons👥, every principal officer or partner of that body commits an offence.
+9. The Commission, its members, and staff are protected from suits or prosecutions for acts done or omitted in good faith🛡️.
+10. The Commission is required to prepare an annual report📄 of its activities.
+11. All members and staff of the Commission are deemed to be public servants👮‍♂️.
+12. The Commission is deemed to be a scheduled institution within the meaning of the Bribery Act, Anti-Corruption Act, No. 9 of 2023.
+13. The Commission is authorized to make rules📜 for issuing codes of practice for service providers and internet intermediaries and for registering websites providing social media platforms.
+14. The Minister can make regulations for all matters required by this Act.
+15. In case of any inconsistency or conflict between the provisions of this Act and any other written law, the provisions of this Act prevail⚖️.
+16. The Act provides definitions for terms such as "bot"🤖, "child"🧒, "computer"💻, "fact"✔️, "internet intermediary"🌐, "online account"📱, "person"👤, and "statement"📝.
+17. The term "coordinated inauthentic behaviour"🕵️‍♂️ is defined as any coordinated activity carried out using two or more online accounts to mislead end users.
+18. The term "inauthentic online account"👥 is defined as an account that is controlled by a person other than the person represented as its holder, with the intent to mislead end users.
+19. In case of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text prevails📚.
+ 
+Part 9
+ 
+Improvements
+1. Clearer Definitions: Some of the terms used in the Act, such as "coordinated inauthentic behaviour" and "inauthentic online account," could be defined more clearly to avoid potential ambiguity and misinterpretation.
+
+2. Technological Updates: As technology evolves rapidly, the legislation should include a provision for regular updates to keep pace with technological advancements and emerging online threats.
+
+3. Privacy Protection: The Act could include more explicit protections for user privacy, detailing when and how user data can be accessed or used in investigations.
+
+4. Public Education: The Act could mandate the creation of public education campaigns to make internet users aware of their rights and responsibilities under the law.
+
+5. Dispute Resolution: The Act could provide for a clear, accessible, and efficient dispute resolution process for conflicts arising from its implementation.
+ 
