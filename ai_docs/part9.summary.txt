@@ -1,0 +1,27 @@
+Part 9
+ 
+"General Provisions, Offences, and Definitions in the Online Safety Act"
+ 
+This part of the document outlines the general provisions, offences, jurisdiction, penalties, and definitions related to online safety under the relevant Act.
+ 
+Summary
+1. The provisions of the Code of Criminal Procedure Act, No. 15 of 1979, apply to investigations🔍, trials of offences, and appeals📚 from judgements under this Act.
+2. The jurisdiction⚖️ for all offences under this Act lies with the Magistrate’s Court.
+3. The Attorney General👨‍⚖️ can forward indictment directly to the High Court in cases with aggravating circumstances or public disquiet.
+4. Anyone who attempts to commit or causes an offence under this Act is liable to imprisonment🔒 or a fine💰.
+5. Anyone who attempts or abets the commission of an offence under this Act is liable to the same punishment as the first-mentioned offence.
+6. A person who conspires with another to commit an offence under this Act is liable to the same punishment as the first-mentioned offence.
+7. Every offence under this Act is a non-cognizable and bailable offence.
+8. If an offence under this Act is committed by a body of persons👥, every principal officer or partner of that body commits an offence.
+9. The Commission, its members, and staff are protected from suits or prosecutions for acts done or omitted in good faith🛡️.
+10. The Commission is required to prepare an annual report📄 of its activities.
+11. All members and staff of the Commission are deemed to be public servants👮‍♂️.
+12. The Commission is deemed to be a scheduled institution within the meaning of the Bribery Act, Anti-Corruption Act, No. 9 of 2023.
+13. The Commission is authorized to make rules📜 for issuing codes of practice for service providers and internet intermediaries and for registering websites providing social media platforms.
+14. The Minister can make regulations for all matters required by this Act.
+15. In case of any inconsistency or conflict between the provisions of this Act and any other written law, the provisions of this Act prevail⚖️.
+16. The Act provides definitions for terms such as "bot"🤖, "child"🧒, "computer"💻, "fact"✔️, "internet intermediary"🌐, "online account"📱, "person"👤, and "statement"📝.
+17. The term "coordinated inauthentic behaviour"🕵️‍♂️ is defined as any coordinated activity carried out using two or more online accounts to mislead end users.
+18. The term "inauthentic online account"👥 is defined as an account that is controlled by a person other than the person represented as its holder, with the intent to mislead end users.
+19. In case of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text prevails📚.
+ 

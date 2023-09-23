@@ -1,0 +1,24 @@
+Part 5
+ 
+"Regulations and Prohibitions for Declared Online Locations"
+ 
+This part outlines the regulations and penalties related to the declaration, operation, and support of prohibited online locations, as well as the obligations of service providers and intermediaries.
+ 
+Summary
+1. The Commission may 📣 declare an online location as a "declared online location" if 3️⃣ or more different prohibited statements have been communicated to the end users in Sri Lanka.
+2. A declaration made under this section shall contain the URL, domain name, unique identifier of the online location, relevant court orders, dates of effect and expiry, and a notice for the owner or operator of the online location.
+3. The declaration may expire 📆 on a specified date or when cancelled or set aside by the Commission.
+4. The Commission shall publish a notice in the Gazette 📜 and serve a copy of the declaration to the owner or operator of the declared online location.
+5. If the owner or operator fails to comply with the notice, the Commission may apply to the Magistrate for an order directing the owner or operator to disable access to the declared online location.
+6. The Magistrate may make a conditional order on the owner or operator of a declared online location containing the directions applied by the Commission.
+7. The owner or operator of a declared online location must comply with the order or appear before the Magistrate to show cause as to why the order should not be made absolute.
+8. If the owner or operator fails to comply with the order or appear before the Magistrate, they are liable to the penalty specified and the order will be made absolute.
+9. The Commission may suspend, vary or cancel a declaration made under this section for a determined period.
+10. A service provider or digital advertising intermediary must take reasonable steps to ensure that any paid content on a declared online location is not communicated in Sri Lanka.
+11. A person who fails to comply with these provisions commits an offence and can face imprisonment or a fine.
+12. Any person who solicits, receives or agrees to receive any financial 💰 or other material benefit for operating a declared online location commits an offence.
+13. A person who expends or applies any property knowing that the expenditure supports, helps or promotes the communication of prohibited statements on a declared online location commits an offence.
+14. Service providers or digital advertising intermediaries which give any consideration for the purpose of communicating any paid content in Sri Lanka on the declared online location are exempted from this provision.
+15. In addition to imprisonment or fine, the court may order the forfeiture of any assets or property acquired through the commission of an offence under this section.
+16. The term "property" in this context includes money 💵 and all other movable or immovable property, including things in action and other intangible or incorporeal property.
+ 

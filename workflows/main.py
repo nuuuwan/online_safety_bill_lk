@@ -45,7 +45,7 @@ def process_part(i: int):
 
 
 def main():
-    for i in range(3, 10):
+    for i in range(4, 10):
         process_part(i)
 
 

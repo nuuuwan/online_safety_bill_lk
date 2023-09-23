@@ -1,5 +1,6 @@
 import math
 import os
+import random
 import time
 from functools import cached_property
 
@@ -18,9 +19,15 @@ PREAMBLE_CONTEXT = 'The following is a part from a document:'
 POSTAMBLE_CONTEXT = 'You will be asked a set of questions about the part.'
 
 CHARS_PER_BULLET = 1_000
-T_SLEEP_AFTER_RESPONSE = 2
+
 
 log = Log("ChatGPT")
+
+
+def random_sleep(t_original):
+    t = t_original * (2 ** (random.random() * 2 - 1))
+    log.debug(f'Sleeing 😴 for {t:.1f}s ({t_original:.1f}s)...')
+    time.sleep(t)
 
 
 class ChatGPT:
@@ -57,15 +64,25 @@ class ChatGPT:
         n_messages = len(self.messages)
         log.debug(f'ChatGPT().send({n_messages=})')
 
-        response = openai.ChatCompletion.create(
-            model=MODEL,
-            temperature=TEMPERATURE,
-            frequency_penalty=FREQUENCY_PENALTY,
-            presence_penalty=PRESENCE_PENALTY,
-            messages=self.messages,
-        )
-        time.sleep(T_SLEEP_AFTER_RESPONSE)
+        t_original = 1    
+        while True:
+            try:
+                response = openai.ChatCompletion.create(
+                    model=MODEL,
+                    temperature=TEMPERATURE,
+                    frequency_penalty=FREQUENCY_PENALTY,
+                    presence_penalty=PRESENCE_PENALTY,
+                    messages=self.messages,
+                )
+                break
+            except openai.error.RateLimitError as e:
+                log.error(e)
+                random_sleep(t_original)
+                t_original *= 2
+
         raw_response_msg = response.choices[0]['message']['content']
+        n_response = len(raw_response_msg)
+        log.debug(f'{n_response=:,}')
         self.messages.append(
             ChatGPT.build_message(ChatGPTRole.assistant, raw_response_msg)
         )

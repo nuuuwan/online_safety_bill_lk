@@ -1,0 +1,13 @@
+Part 5
+ 
+Improvements
+1. Clearer Definitions: The legislation could provide more explicit definitions of terms such as "prohibited statements," "reasonable steps," and "online location" to avoid ambiguity and potential misuse.
+
+2. Technical Feasibility: The legislation could consider the technical feasibility of service providers and digital advertising intermediaries ensuring that no paid content on a declared online location is communicated in Sri Lanka, given the global and interconnected nature of the internet.
+
+3. Appeal Process: The legislation could provide a more detailed and transparent appeal process for entities that have been declared as "declared online locations."
+
+4. International Cooperation: Given the international nature of the internet, the legislation could include provisions for cooperation with foreign entities or governments to enforce these regulations effectively.
+
+5. Privacy Considerations: The legislation could include stronger protections or considerations for user privacy, particularly in cases where personal data might be involved in identifying and enforcing against declared online locations.
+ 

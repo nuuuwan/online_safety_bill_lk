@@ -1,0 +1,15 @@
+Part 6
+ 
+"Regulations and Penalties for Inauthentic Online Accounts and Coordinated Inauthentic Behaviour"
+ 
+This part outlines the regulations and penalties for inauthentic online accounts and coordinated inauthentic behavior, detailing the conditions under which the Commission can issue notices to internet intermediaries, the processes for serving and complying with these notices, and the consequences of non-compliance.
+ 
+Summary
+1. 📝 The Commission can issue a written notice to an internet intermediary to refrain from allowing its services to be used for prohibited statements 🚫 or interactions through specified online accounts, given certain conditions are met.
+2. 📚 The conditions for such a notice include that the online accounts were created with the internet intermediary, a prohibited statement has been communicated or inauthentic behavior has been carried out in Sri Lanka 🇱🇰 using the account, and the Commission has determined the account to be inauthentic or bot-controlled 🤖.
+3. 🚫 If a notice is not complied with, the Commission can submit an application to the Magistrate’s Court ⚖️, which may issue a conditional order on the internet intermediary.
+4. 📅 An Order made under these conditions can have an indefinite effect or for a specified period not exceeding three months.
+5. 📋 The internet intermediary must either comply with the Magistrate's order or appear before the Magistrate to show cause as to why the order should not be made absolute.
+6. ⚠️ If the internet intermediary fails to comply with the order or appear before the Magistrate, they are liable to a penalty and the order becomes absolute.
+7. ⛔ The penalty for non-compliance can include imprisonment for up to seven years or a fine up to ten million rupees 💰, with an additional fine for each day the offence continues. #OnlineSafety #InternetRegulations
+ 
