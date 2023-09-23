@@ -12,9 +12,24 @@ def process_part(i: int):
     part_file_path = os.path.join('docs', f'part{i}.txt')
     story_ai = ChatGPT(File(part_file_path).read_lines())
 
-    lines = [f'Part {i}']
-    lines.append(story_ai.title)
-    lines.append(story_ai.summary)
+    lines = []
+
+    def print_x(line):
+        print(line)
+        lines.append(line)
+
+    print_x(f'Part {i}')
+    print_x(' ')
+    print_x(story_ai.title)
+    print_x(' ')
+    print_x(story_ai.short_summary)
+    print_x(' ')
+    print_x('Summary')
+    print_x(story_ai.summary)
+    print_x(' ')
+    print_x('Areas for Improvement')
+    print_x(story_ai.improvements)
+    print_x(' ')
 
     summary_path = os.path.join('ai_docs', f'summary.part{i}.txt')
     File(summary_path).write_lines(lines)
@@ -22,7 +37,7 @@ def process_part(i: int):
 
 
 def main():
-    for i in range(0, 1):
+    for i in range(0, 4):
         process_part(i)
 
 

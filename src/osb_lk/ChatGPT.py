@@ -1,5 +1,6 @@
 import math
 import os
+import time
 from functools import cached_property
 
 import openai
@@ -13,8 +14,8 @@ FREQUENCY_PENALTY = 0
 PRESENCE_PENALTY = 0
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
-PREAMBLE_CONTEXT = 'The following is an excerpt from a document:'
-POSTAMBLE_CONTEXT = 'You will be asked a set of questions about the document.'
+PREAMBLE_CONTEXT = 'The following is a part from a document:'
+POSTAMBLE_CONTEXT = 'You will be asked a set of questions about the part.'
 
 CHARS_PER_BULLET = 1_000
 
@@ -62,6 +63,7 @@ class ChatGPT:
             presence_penalty=PRESENCE_PENALTY,
             messages=self.messages,
         )
+        time.sleep(1)
         raw_response_msg = response.choices[0]['message']['content']
         self.messages.append(
             ChatGPT.build_message(ChatGPTRole.assistant, raw_response_msg)
@@ -70,10 +72,13 @@ class ChatGPT:
 
     @cached_property
     def title(self):
+        return self.send(['Suggest an appropriate title for this part.'])
+
+    @cached_property
+    def short_summary(self):
         return self.send(
             [
-                'State the part number and title of the excerpt'
-                + ' in the format PART <number>: <title>.'
+                'Summarize the part in one brief sentence.',
             ]
         )
 
@@ -81,11 +86,21 @@ class ChatGPT:
     def summary(self):
         self.send(
             [
-                f'Summarize into {self.n_bullets} bullet points',
+                f'Summarize into {self.n_bullets} numbered bullet points',
             ]
         )
         return self.send(
             [
-                'Add emojis, hashtags and handles to the summary.',
+                'In summary, add emojis next to words, '
+                + 'and replace words with hashtags and handles '
+                + 'where appropriate.',
+            ]
+        )
+
+    @cached_property
+    def improvements(self):
+        return self.send(
+            [
+                'Briefly list 2-5 ways this legislation might be improved.',
             ]
         )

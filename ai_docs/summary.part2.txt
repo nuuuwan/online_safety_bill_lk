@@ -1,7 +1,7 @@
 Part 2
 PART II: POWERS AND FUNCTIONS OF THE COMMISSION
-- The Commission has the power to issue directives and notices to individuals, service providers, and internet intermediaries who publish or communicate prohibited or false statements. 🚫📝
-- The Commission can refer matters to the court, especially those that may be in contempt of court or potentially harm the judiciary's authority and impartiality. ⚖️👩‍⚖️
-- The Commission has the authority to maintain an online portal to inform the public about false statements, specify declared online locations, and recommend disabling access to certain information. 💻🌐
-- The Commission can issue codes of practice for service providers and internet intermediaries, register websites providing social media platforms, and consult with those who may be affected by its actions. 📋🤝
-- The Commission can advise the government on online safety matters, acquire and dispose of property, enter contracts, obtain police assistance, and generally perform any acts necessary to exercise its powers and functions. 🏛️🔒 #OnlineSafety #CommissionPowers @OnlineSafetyCommission
+1. The Commission 🏛️ has the authority to issue directives and notices 📝 to individuals, service providers, and internet intermediaries regarding prohibited statements 🚫, false statements ❌, and communication offenses.
+2. It has the power to advise courts ⚖️ on communications that may be contemptuous or prejudicial, and to carry out investigations 🔍 as directed by courts.
+3. The Commission can make recommendations for the removal of prohibited content 🚫, maintain an online portal 🌐 to inform the public about false statements ❌, and register websites that provide #SocialMedia platforms in #SriLanka.
+4. It has the ability to consult with affected parties 🗣️, advise the government 🏛️ on #OnlineSafety matters, and acquire, hold, and manage property 🏢.
+5. The Commission can enter contracts 📝, obtain #Police assistance 👮‍♀️ for investigations, and conduct any other acts incidental to or consequential in the exercise, performance, and discharge of its powers, duties, and functions.
