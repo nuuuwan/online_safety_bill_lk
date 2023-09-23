@@ -1,0 +1,351 @@
+PART V
+
+                       DECLARED ONLINE LOCATIONS
+
+        32. (1) The Commission may declare an online location             Declared
+     as a “declared online location”, if-                                 online
+                                                                          locations
+
+5         (a) three or more different prohibited statements have
+              been or are being communicated to the end users in
+              Sri Lanka on such online location which have been
+              held to be a prohibited statement by the Magistrate’s
+              Court; and
+
+10        (b) at least three of such statements had first been
+              communicated to the end users in Sri Lanka on
+              such online location within six months prior to the
+              date of a declaration under this section is made.
+
+      (2) For the purposes of paragraph (a) of subsection (1), a
+15 statement is different from another if it is different in a material
+   particular from that other statement.
+
+          (3) A declaration made under this section shall contain-
+
+          (a) the URL, domain name, or any other unique
+              identifier of the online location;
+
+20        (b) the relevant orders made by the Magistrate’s Court;
+
+           (c) the date on which the declaration comes into effect;
+
+          (d) the date on which the declaration expires or a
+              formula by which that date may be worked out,
+              which must not be later than two years after the
+25            date referred to in paragraph (c);
+                             Online Safety                      27
+
+
+         (e) a notice for the owner or operator of the online
+             location whether in or outside Sri Lanka to
+             communicate in such manner as may be specified
+             in the declaration, to any end user in Sri Lanka who
+5            accesses the online location, a notice in such form
+             as may be specified in such declaration, that the
+             online location is the subject of a declaration; and
+
+         (f) such other particulars as may be prescribed.
+
+        (4) A declaration made under this section may expire-
+
+10       (a) on the date specified therein, or worked out in
+             accordance with paragraph (d) of subsection (3); or
+
+         (b) on the date it is cancelled or set aside by the
+             Commission,
+
+     whichever is earlier.
+
+15      (5) As soon as possible after a declaration is made and
+     before the date it comes into effect, the Commission shall-
+
+         (a) publish, in such form and manner as may be
+             prescribed, a notice in the Gazette -
+
+                   (i) stating that a declaration has been issued
+20                     under this section; and
+
+                  (ii) setting out the URL, domain name, or any
+                       other unique identifier of the online
+                       location, to which the declaration relates;
+                       and
+
+25       (b) make reasonable efforts to serve a copy of the
+             declaration to the owner or operator of the declared
+             online location.
+     28                      Online Safety
+
+
+     (6) (a) The declaration shall be deemed to be served, if
+  the declaration is served by personal service, sent by post to
+  the last known address of such owner or operator of the
+  online location, or served by electronic means to such
+5 person, or by such other appropriate method adopted by the
+  Commission, depending on the nature of the case.
+
+      (b) The declaration shall be deemed to be served by
+   electronic means where such declaration is sent to the email
+   address or social media account of the owner or operator of
+10 the online location through which such prohibited statement
+   has been communicated.
+
+      (7) Where any owner or operator of a declared online
+   location fails to comply with the notice to communicate a
+   notice as referred to in paragraph (e) of subsection (3), the
+15 Commission or any person authorised by the Commission
+   may apply to the Magistrate for an order directing owner or
+   operator to-
+
+          (a) disable access by the end users in Sri Lanka to such
+              declared online location;
+
+20        (b) to communicate to all end users in Sri Lanka who
+              access such declared online location, a notice
+              declaring that the online location is the subject of a
+              declaration; and
+
+          (c) any other order as the Magistrate deems fit.
+
+25      (8) Upon considering such application, the Magistrate
+     may make a conditional order on the owner or operator of a
+     declared online location containing the directions applied
+     by the Commission under subsection (7).
+                           Online Safety                       29
+
+
+        (9) The order made under subsection (8) may contain,
+     inter alia-
+
+        (a) the name of the owner or operator of a declared
+            online location who is required to disable access
+5           by the end users in Sri Lanka to the declared online
+            location;
+
+        (b) the manner of communicating the notice referred
+            to in paragraph (e) of subsection (3); and
+
+        (c) the period within which such notice shall be
+10          published after the service of the order.
+
+      (10) The order made under subsection (8) shall be deemed
+   to be served on the owner or operator of a declared online
+   location against whom the order is made, if the order is served
+   by personal service, sent by registered post to the last known
+15 address of such person, or served by electronic means to
+   such person, or by any other method deemed proper by the
+   Magistrate depending on the nature of the case and in
+   accordance with the provisions of this Act.
+
+      (11) The owner or operator of a declared online location
+20 against whom a conditional order is made under subsection
+   (8) shall either comply with such order or appear before the
+   Magistrate as specified in subsection (12) to show cause as
+   to why the order shall not be made absolute.
+
+      (12) Where the owner or operator of a declared online
+25 location  against whom a conditional order is made under
+   subsection (8) intends to show cause, such person shall appear
+   before the Magistrate making that order within a period of
+   one week of making such order and move to have the order
+   set aside or modified in the manner hereinafter provided:
+    30                      Online Safety
+
+
+     Provided however, any owner or operator of a declared
+  online location against whom a conditional order is made
+  under subsection (8) shall be bound to comply with the order
+  with effect from the date of making such order until such
+5 order is set aside or modified by the Magistrate in terms of
+  the provisions of this section.
+
+      (13) If the owner or operator of a declared online location
+   against whom an order is made under subsection (8) neither
+   complies with the order nor appears before the Magistrate
+10 under subsection (12) such person shall be liable to the
+   penalty specified in subsection (15) and the order shall be
+   made absolute.
+
+      (14) (a) Where such owner or operator of a declared online
+   location appears before the Magistrate in terms of subsection
+15 (12) to show cause by way of petition and affidavit, the
+   Magistrate shall hold an inquiry which shall be concluded
+   within two weeks of the date of commencement of the
+   inquiry.
+
+      (b) The Magistrate may, having regard to the facts stated
+20 by the owner or operator of a declared online location against
+   whom the conditional order is made under subsection (8),
+   either move to have the order set aside or modified, if the
+   Magistrate is satisfied that the order under this section is not
+   reasonable and proper, and make an appropriate order, subject
+25 to the provisions of this Act.
+
+      (c) If the Magistrate is not so satisfied, the order made
+    under subsection (8) shall be made absolute.
+
+       (d) Where the order under subsection (8) is modified under
+    paragraph (b), such order shall be made absolute.
+                            Online Safety                       31
+
+
+       (15) (a) Where the owner or operator of a declared online
+   location against whom the order is made under this section
+   fails to comply with such order within the period and in the
+   manner ordered by the Magistrate’s Court, such owner or
+ 5 operator of a declared online location commits an offence
+   and shall on conviction be liable to imprisonment for a term
+   not exceeding six years or to a fine not exceeding rupees ten
+   million and Magistrate’s Court may make an order directing
+   the Commission to take steps to disable access by the end
+10 users in Sri Lanka to the declared online location.
+
+        (b) Where the offence under paragraph (a) is a continuing
+     offence, such owner or operator of a declared online location
+     shall be liable to an additional fine of five hundred thousand
+     rupees for each day during which such offence is continued.
+
+15      (16) The Commission may at any time suspend, vary or
+     cancel a declaration made under this section for such period
+     as the Commission may determine-
+
+         (a) on its own initiative; or
+
+         (b) on an application by-
+
+20                 (i) the owner or operator of the declared
+                       online location; or
+
+                  (ii) any person with editorial control over the
+                       online location.
+
+      (17) For the purpose of subsection (16), a person has
+25 “editorial control over an online location” if the person is
+   able to decide-
+
+         (a) whether any statement may be included or excluded
+             on the online location; or
+
+         (b) where to place any statement on the online location.
+     32                      Online Safety
+
+
+        (18) Upon a declaration being suspended, varied or
+     cancelled under subsection (16), the Commission shall-
+
+          (a) publish, in such form and manner as may be
+              prescribed, a notice of the suspension, variation or
+5             cancellation in the Gazette; and
+
+          (b) make reasonable efforts to give a copy of such notice
+              to the owner or operator of the declared online
+              location.
+
+      33. (1) A service provider must take reasonable steps (both     Certain
+10 in and outside Sri Lanka) to ensure that, after a prescribed       persons not
+                                                                      to
+   period commencing on the date a declaration made under             communicate
+   section 32 comes into effect, any paid content that it includes    in Sri Lanka,
+                                                                      paid content
+   or causes to be included on a declared online location, is not     on declared
+   communicated in Sri Lanka on the declared online location.         online
+                                                                      locations,
+                                                                      &c.
+15    (2) A digital advertising intermediary must take
+   reasonable steps (both in and outside Sri Lanka) to ensure
+   that, after a prescribed period commencing on the date a
+   declaration made under section 32 comes into effect, any
+   paid content that it includes or causes to be included on a
+20 declared online location is not communicated in Sri Lanka
+   on the declared online location.
+
+      (3) A digital advertising intermediary or an internet
+   intermediary must take reasonable steps (both in and outside
+   Sri Lanka) to ensure that, after a prescribed period
+25 commencing on the date on the declaration made under
+   section 32 comes into effect, it does not, when acting as a
+   digital advertising intermediary or an internet intermediary,
+   facilitate the communication in Sri Lanka of any paid content
+   that gives publicity to, or otherwise promotes, a declared
+30 online location.
+                           Online Safety                      33
+
+
+     (4) A service provider or digital advertising intermediary
+  shall be treated for the purposes of subsection (1) or (2), as
+  the case may be, as having taken reasonable steps to ensure
+  that any paid content that it includes or causes to be included
+5 on a declared online location is not communicated in Sri
+  Lanka on the declared online location, if it has taken such
+  steps as may be prescribed by regulations.
+
+      (5) A digital advertising intermediary or an internet
+   intermediary is treated for the purposes of subsection (3), as
+10 having taken reasonable steps to ensure that it does not
+   facilitate the communication in Sri Lanka of any paid content
+   mentioned in that subsection if it has taken such steps as
+   may be prescribed by regulations.
+
+      (6) A person who fails to comply with the provisions of
+15 subsection (1), (2) or (3) commits an offence and shall on
+   conviction be liable to imprisonment for a term not
+   exceeding seven years or to a fine not exceeding ten million
+   rupees and in the event of a second or subsequent conviction,
+   such term of imprisonment or fine or both such imprisonment
+20 and fine may be doubled.
+
+      34. (1) Any person, whether in or outside Sri Lanka, who      Prohibition
+   solicits, receives or agrees to receive any financial or other   on deriving
+                                                                    benefits from
+   material benefit as an inducement or reward for operating a      operating a
+   declared online location commits an offence and shall on         declared
+25 conviction be liable to imprisonment for a term not              online
+                                                                    location
+   exceeding five years or to a fine not exceeding five million
+   rupees and in the event of a second or subsequent conviction,
+   such term of imprisonment or fine or both such imprisonment
+   and fine may be doubled.
+
+30      (2) Where a court convicts any person of an offence under
+     this section, the court shall order, in addition to imposing
+     on that person the punishment in subsection (1), the
+     forfeiture of any assets acquired through the commission of
+     an offence under this section.
+    34                     Online Safety
+
+
+      35. (1) A person, whether in or outside Sri Lanka, who        Prohibition
+                                                                    on providing
+   expends or applies any property knowing or having reason         financial
+   to believe that the expenditure or application supports, helps   support to
+                                                                    declared
+   or promotes the communication of prohibited statements to        online
+ 5 the end users in Sri Lanka on a declared online location         locations
+
+   commits an offence and shall on conviction be liable to
+   imprisonment for a term not exceeding five years or to a fine
+   not exceeding five million rupees and in the event of a second
+   or subsequent conviction, such term of imprisonment or fine
+10 or both such imprisonment and fine may be doubled.
+
+      (2) The provisions of subsection (1) shall not apply to a
+   service provider or a digital advertising intermediary which
+   gives any consideration for the purpose of communicating
+   any paid content in Sri Lanka on the declared online
+15 location.
+
+      (3) Where a court convicts any person of an offence under
+   this section, the court shall order, in addition to imposing
+   on that person the punishment in subsection (1), the
+   forfeiture of any property acquired through expending or
+20 applying any property by the commission of an offence under
+   this section.
+
+      (4) For the purpose of this section, “property” means
+   money and all other property, movable or immovable,
+   including things in action and other intangible or
+25 incorporeal property.
+                            Online Safety                       35
+
+
+                              

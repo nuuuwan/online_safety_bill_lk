@@ -1,0 +1,138 @@
+PART VI
+
+           COUNTERACTING INAUTHENTIC   ONLINE ACCOUNTS AND
+                  COORDINATED INAUTHENTIC BEHAVIOUR
+
+
+     36. (1) If the conditions in subsection (2) are satisfied, the   Counteracting
+5 Commission may issue a notice in writing to an internet             inauthentic
+                                                                      online
+  intermediary, requiring it to do one or both of the following,      accounts and
+  for the period specified in such notice: -                          coordinated
+                                                                      inauthentic
+                                                                      behaviour
+        (a) to refrain from permitting its services from being
+            used to communicate any prohibited statement in
+10          Sri Lanka through one or more specified online
+            accounts; or
+
+        (b) to refrain from permitting any person from using
+            one or more specified online accounts to interact
+            with any end user of its internet intermediary service
+15          in Sri Lanka.
+
+        (2) The conditions referred to in subsection (1) shall be,
+     as follows:-
+
+        (a) such online account or accounts shall have been
+            created with the internet intermediary in respect of
+20          which the notice under subsection (1) is issued;
+
+        (b) either a prohibited statement has been
+            communicated in Sri Lanka using the specified
+            online account or coordinated inauthentic
+            behaviour has been carried out in Sri Lanka using
+25          the specified online account; and
+
+         (c) the Commission has determined that the online
+             account is an inauthentic online account or is
+             controlled by a bot.
+     36                     Online Safety
+
+
+     (3) The notice shall be deemed to be served on the internet
+  intermediary, if it is served by personal service, sent by post
+  to the last known address of such internet intermediary, or
+  served by electronic means to such person, or by any other
+5 method deemed proper by the Commission depending on
+  the nature of the case.
+
+      (4) Where a notice issued under subsection (1) has not
+   been complied with, the Commission shall submit an
+   application to the Magistrate’s Court. Upon considering such
+10 application the Magistrate may issue a conditional order on
+   the internet intermediary containing the directions applied
+   for by the Commission under subsection (1).
+
+         (5) An Order made under subsection (4) shall specify that
+     it has effect-
+
+15        (a) indefinitely; or
+
+          (b) for a specified period not exceeding three months.
+
+      (6) The order made under subsection (4) shall be deemed
+   to be served on the internet intermediary against whom the
+   order is made, if the order is served by personal service, sent
+20 by registered post to the last known address of such person,
+   or served by electronic means to such person, or by any
+   other method deemed proper by the Magistrate depending
+   on the nature of the case and in accordance with the
+   provisions of this Act.
+
+25      (7) The internet intermediary against whom a conditional
+     order is made under subsection (4) shall either comply with
+     such order or appear before the Magistrate as specified in
+     subsection (8) to show cause as to why the order shall not be
+     made absolute.
+                            Online Safety                       37
+
+
+     (8) Where the internet intermediary against whom a
+  conditional order is made under subsection (4) intends to
+  show cause, it shall appear before the Magistrate making
+  that order, within a period of one week of making such order
+5 and move to have the order set aside or modified in the
+  manner hereinafter provided:
+
+      Provided however, any internet intermediary against
+   whom a conditional order is made under subsection (4) shall
+   be bound to comply with the order with effect from the date
+10 of making such order until such order is set aside or modified
+   by the Magistrate in terms of the provisions of this section.
+
+      (9) If the internet intermediary against whom an order is
+   made under subsection (4) neither complies with the order
+   nor appears before the Magistrate under subsection (8) he
+15 shall be liable to the penalty specified in subsection (11)
+   and the order shall be made absolute.
+
+      (10) (a) Where such internet intermediary appears before
+   the Magistrate in terms of subsection (8) to show cause by
+   way of petition and affidavit, the Magistrate shall hold an
+20 inquiry which shall be concluded within two weeks of the
+   date of commencement of the inquiry.
+
+      (b) The Magistrate may having regard to the facts stated
+   by the internet intermediary against whom the conditional
+   order is made under subsection (4), either move to have the
+25 order set aside or modified, if the Magistrate is satisfied that
+   the order under this section is not reasonable and proper,
+   make an appropriate order subject to the provisions of this
+   Act.
+
+     (c) If the Magistrate is not so satisfied, the order made
+30 under subsection (4) shall be made absolute.
+
+       (d) Where the order under subsection (4) is modified under
+    paragraph (b), such order shall be made absolute.
+     38                     Online Safety
+
+
+      (11) (a) Where the internet intermediary against whom
+   the order is made under this section fails to comply with
+   such order within the period and in the manner ordered by
+   the Magistrate, such person commits an offence and shall on
+ 5 conviction be liable to imprisonment for a term not
+   exceeding seven years or to a fine not exceeding ten million
+   rupees, and the Magistrate may make an order directing the
+   Commission to take steps to enforce such order by preventing
+   access to the prohibited statement within Sri Lanka,
+10 notwithstanding anything contrary in any other law.
+
+        (b) Where the offence under paragraph (a) is a continuing
+     offence, such internet intermediary shall be liable to an
+     additional fine of five hundred thousand rupees for each
+     day during which such offence is continued.
+
+15                            

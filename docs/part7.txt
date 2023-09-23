@@ -1,0 +1,106 @@
+PART VII
+
+          APPOINTMENT OF EXPERTS TO ASSIST INVESTIGATIONS AND
+                             THEIR POWERS
+
+
+       37. (1) Where the court deems necessary, the Minister         Appointment
+   may by Order published in the Gazette appoint a person, an        of experts to
+                                                                     assist
+20 institution or a body of persons having the specified             investigations
+   qualifications and experience in information technology
+   (hereinafter referred to as “an expert”), to assist any police
+   officer in any investigation in respect of an offence under
+   this Act.
+
+25      (2) The Order made by the Minister under subsection (1)
+     shall specify the qualifications of experts in various fields
+     of expertise in information technology and the manner and
+     mode of appointment and the conditions of appointment of
+     such experts.
+
+30      (3) It shall be the duty of an expert to render all such
+     assistance as may be required for the purposes of such
+     investigation.
+                             Online Safety                       39
+
+
+        (4) An expert may, for the purpose of an investigation
+     under this Act, under the authority of a warrant issued in that
+     behalf by a Magistrate on application made for such purpose
+     by a police officer not below the rank of a sub-inspector-
+
+5        (a) enter upon any premises along with a police officer
+             not below the rank of a sub-inspector; and
+
+         (b) access any information system, computer or
+             computer system or any programme, data or
+             information held in such computer and to cause
+10           any computer to perform any function or to do any
+             such other thing.
+
+      (5) For the purposes of an investigation under this Act, an
+   expert who has been called upon to assist the police may,
+   with the authority granted by a police officer not below the
+15 rank of sub-inspector-
+
+         (a) require any person to produce any document,
+             information, device or other thing as is necessary
+             for the purpose of such investigation;
+
+         (b) require any person to disclose any traffic data;
+
+20       (c) orally examine any person; and
+
+         (d) do such other things as may be reasonably required,
+             for the purposes of this Act.
+
+      (6) Where any proceedings have been commenced
+   consequent to the findings of an investigation, it shall be
+25 the duty of the expert to make available for the purposes of
+   such proceedings, any information, data, material or other
+   matter that may be obtained by such person in the course of
+   such investigation.
+     40                     Online Safety
+
+
+     (7) Any information, data, material or other matter made
+  available by an expert under subsection (6) shall be
+  admissible in evidence in relation to the prosecution in
+  respect of any offence under this Act and shall be prima
+5 facie proof of the facts stated therein.
+
+        (8) An expert shall be paid such remuneration as may be
+     determined by the Minister in consultation with the Minister
+     assigned the subject of Finance.
+
+      38. Any person who is required by an expert, under the        Duty to assis
+                                                                    tinvestigations
+10 authority  of a police officer, to make any disclosure or to
+   assist in an investigation in respect of an offence under this
+   Act shall comply with such requirement.
+
+      39. (1) An expert who assists a police officer, for an        Powers of
+   investigation in respect of an offence under this Act, under     search and
+                                                                    seizure with
+15 the authority of a warrant issued in that behalf by a            warrant
+   Magistrate, on application made for such purpose by the
+   police officer, may, -
+
+          (a) obtain any information including subscriber
+              information and traffic data in the possession of
+20            any service provider; or
+
+          (b) intercept any wire or electronic communication
+              including subscriber information and traffic data,
+              at any stage of such communication.
+
+      (2) The Minister may, by regulations prescribe the manner
+25 in which, and the procedures required to be followed in
+   respect of, the retention and interception of data and
+   information including traffic data, for the purposes of any
+   investigation in respect of an offence under this Act.
+                           Online Safety                      41
+
+
+                             
