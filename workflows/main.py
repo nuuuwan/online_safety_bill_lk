@@ -27,17 +27,25 @@ def process_part(i: int):
     print_x('Summary')
     print_x(story_ai.summary)
     print_x(' ')
-    print_x('Areas for Improvement')
-    print_x(story_ai.improvements)
-    print_x(' ')
 
-    summary_path = os.path.join('ai_docs', f'summary.part{i}.txt')
+    summary_path = os.path.join('ai_docs', f'part{i}.summary.txt')
     File(summary_path).write_lines(lines)
     log.info(f'Wrote {summary_path}')
 
+    lines = []
+    print_x(f'Part {i}')
+    print_x(' ')
+    print_x('Improvements')
+    print_x(story_ai.improvements)
+    print_x(' ')
+
+    improvements_path = os.path.join('ai_docs', f'part{i}.improvements.txt')
+    File(improvements_path).write_lines(lines)
+    log.info(f'Wrote {improvements_path}')
+
 
 def main():
-    for i in range(0, 4):
+    for i in range(3, 10):
         process_part(i)
 
 

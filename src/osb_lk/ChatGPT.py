@@ -18,6 +18,7 @@ PREAMBLE_CONTEXT = 'The following is a part from a document:'
 POSTAMBLE_CONTEXT = 'You will be asked a set of questions about the part.'
 
 CHARS_PER_BULLET = 1_000
+T_SLEEP_AFTER_RESPONSE = 2
 
 log = Log("ChatGPT")
 
@@ -63,7 +64,7 @@ class ChatGPT:
             presence_penalty=PRESENCE_PENALTY,
             messages=self.messages,
         )
-        time.sleep(1)
+        time.sleep(T_SLEEP_AFTER_RESPONSE)
         raw_response_msg = response.choices[0]['message']['content']
         self.messages.append(
             ChatGPT.build_message(ChatGPTRole.assistant, raw_response_msg)
